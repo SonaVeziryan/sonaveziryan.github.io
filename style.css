@@ -1,0 +1,31 @@
+body{
+	background:green;
+}
+
+h1{
+	text-align: center;
+	color: blue;
+
+	font-size:50px;
+}
+p{
+	color: blue;
+}
+li{ color: pink;
+
+ }
+
+ #s2{color: red;}
+
+ .parone{
+ 	float: left;
+ 	width: 45%;
+ 	background:white;
+ }
+
+ .partwo{
+ 	float: left;
+ 	width: 45%;
+ 	background: red;
+
+ }	
